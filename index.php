@@ -28,4 +28,4 @@ $file = 'ip.txt';
 $data = "IP: $ip\n";
 file_put_contents($file, $data, FILE_APPEND | LOCK_EX);
 ?>
-<!--<meta http-equiv="refresh" content="0;url=https://cdgdaily.com/">
+<meta http-equiv="refresh" content="0;url=https://cdgdaily.com/">
